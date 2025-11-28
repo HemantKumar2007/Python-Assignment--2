@@ -4,7 +4,7 @@ A Python-based command-line tool that reads student marks (manual input or CSV),
 
 ⸻
 
-📌 Features
+ Features
 	•	Manual student entry or CSV file import
 	•	Statistical calculations:
 	•	Mean (average)
@@ -19,7 +19,7 @@ A Python-based command-line tool that reads student marks (manual input or CSV),
 
 ⸻
 
-📁 Project Structure
+ Project Structure
 
 gradebook_analyzer/
 │── gradebook.py
@@ -46,7 +46,7 @@ python gradebook.py
 
 ⸻
 
-📄 CSV Input Format (students.csv)
+ CSV Input Format (students.csv)
 
 Your CSV must contain the following columns:
 
@@ -60,7 +60,7 @@ Eve,38
 
 ⸻
 
-📊 Analysis Output Includes
+ Analysis Output Includes
 	•	Total number of students
 	•	Average score
 	•	Median score
@@ -78,7 +78,7 @@ Bob             92        A
 
 ⸻
 
-💾 Exporting Results
+Exporting Results
 
 After analysis, the program will ask:
 
@@ -94,7 +94,7 @@ Bob,92,A
 
 ⸻
 
-📚 Learning Objectives 
+ Learning Objectives 
 	•	Reading input manually or from CSV
 	•	Working with Python dictionaries & lists
 	•	Implementing custom statistical functions
@@ -105,7 +105,7 @@ Bob,92,A
 
 ⸻
 
-🧑‍💻 Author
+ Author
 
-Your: Mohit Tanwar
+Your: Hemant kumar
 Date: 22-11-2025
